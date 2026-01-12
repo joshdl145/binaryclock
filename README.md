@@ -49,11 +49,17 @@ Additional components:
 
 ## Repository Structure (initial)
 binaryclock/
+
 ├── README.md
+
 ├── docs/
+
 │ └── spec.md
+
 ├── src/
+
 ├── include/
+
 └── notes/
 
 This structure may evolve as the project grows.
